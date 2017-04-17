@@ -5,3 +5,7 @@
 ## [4. CRF++词性标注](http://x-algo.cn/index.php/2016/02/28/crf-tagging/)
 ## [5. CRF++中文分词](http://x-algo.cn/index.php/2016/02/27/crf-of-chinese-word-segmentation/)
 ## [6. 条件随机场(码农场)](http://www.hankcs.com/ml/conditional-random-field.html)
+## implemention
+    [Simple implementation of Conditional Random Fields (CRF) in Python](https://github.com/timvieira/crf)
+    [conditional random field for study](https://github.com/shastakr/crf)
+    [Linear Chain Conditional Random Field](https://github.com/zhenlan0426/CRF)
