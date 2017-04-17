@@ -8,4 +8,4 @@
 ## implemention
    [Simple implementation of Conditional Random Fields (CRF) in Python](https://github.com/timvieira/crf)<br/>
    [conditional random field for study](https://github.com/shastakr/crf)<br/>
-   [Linear Chain Conditional Random Field](https://github.com/zhenlan0426/CRF)<br/>
+   [Linear Chain Conditional Random Field](https://github.com/zhenlan0426/CRF)
