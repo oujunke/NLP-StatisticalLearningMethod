@@ -1,4 +1,5 @@
 # reference
+## 《统计学习方法》第11章，这章内容才是重点
 ## [1. 如何轻松愉快地理解条件随机场(CRF)](http://www.jianshu.com/p/55755fc649b1)
 ## [2. 条件随机场(Conditional random fields)](http://blog.csdn.net/chlele0105/article/details/14897761)
 ## [3. 条件随机场（CRF）理论及应用](http://x-algo.cn/index.php/2016/02/15/conditional-random-field-crf-theory-and-implementation/)
