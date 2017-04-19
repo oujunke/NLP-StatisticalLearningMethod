@@ -8,3 +8,5 @@
 ## [6. 条件随机场(码农场)](http://www.hankcs.com/ml/conditional-random-field.html)
 ## implemention
    [Linear Chain Conditional Random Field](https://github.com/zhenlan0426/CRF)
+## CRF++软件包的学习和使用
+   [1.CRF++使用小结](http://www.cnblogs.com/pangxiaodong/archive/2011/11/21/2256264.html)
