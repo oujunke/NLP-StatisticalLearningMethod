@@ -10,4 +10,6 @@
 ## git push -u origin master
 ## git push -u origin master -f # 强制上传
 
-## [reference](https://morvanzhou.github.io/tutorials/others/git/5-1-github/) 
+## reference
+[1](https://morvanzhou.github.io/tutorials/others/git/5-1-github/) 
+[2](http://www.jianshu.com/p/8d26730386f3)
