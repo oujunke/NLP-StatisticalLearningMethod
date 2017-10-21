@@ -1,4 +1,4 @@
-![Image](/image/cover.jpg)
+[Image](/image/cover.jpg)
 # NLP_PureManualCoding
 NLP算法，纯手工撸，无聊随便写写。
 # EM算法-无监督学习
